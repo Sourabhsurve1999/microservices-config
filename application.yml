@@ -1,7 +1,5 @@
 spring:
- application:
-    name: m1-default-config
-eureka:
+ eureka:
   instance:
     prefer-ip-address: true
   client:
